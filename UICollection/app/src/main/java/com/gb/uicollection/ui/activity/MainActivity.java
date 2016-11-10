@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 主页
+ * 主页Activity
  */
 public class MainActivity extends AppCompatActivity {
     private ListView mListView;
